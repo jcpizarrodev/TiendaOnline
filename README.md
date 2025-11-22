@@ -51,14 +51,14 @@ La aplicación se construyó utilizando JavaScript moderno (ES6+), aplicando con
 
 M4_Evaluación de portafolio
  ┣ 📂 assets
- ┃        ┣ 📂 css
- ┃        ┃ ┗ styles.css
- ┃        ┣ 📂 js
- ┃             ┗ script.css
+ ┃    ┣ 📂 css
+ ┃    ┃ ┗ styles.css
+ ┃    ┣ 📂 js
+ ┃      ┗ script.css
  ┣ 📂 crud
- ┃ ┗ productos.html
- ┃ ┣ styles.css
- ┃ ┗ script.j
+ ┃    ┗ productos.html
+ ┃    ┣ styles.css
+ ┃    ┗ script.j
  ┃
  ┣ index.html
  ┗ README.md
@@ -76,4 +76,5 @@ Debe quedar:
 http://localho
 
 En el footer se encuentra botón de acceso a panel de administración:
+
 Clave de acceso : 12345
