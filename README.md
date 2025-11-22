@@ -64,19 +64,19 @@ La aplicación se construyó utilizando JavaScript moderno (ES6+), aplicando con
 
 > ## Estructura Esperada del Proyecto
 
-TiendaOnline
- ┣ 📂 assets
- ┃        ┣ 📂 css
- ┃        ┃ ┗ styles.css
- ┃        ┣ 📂 js
- ┃             ┗ script.css
- ┣ 📂 crud
- ┃ ┗ productos.html
- ┃ ┣ styles.css
- ┃ ┗ script.j
- ┃
- ┣ index.html
- ┗ README.md
+TiendaOnline  
+ ┣ 📂 assets  
+ ┃        ┣ 📂 css  
+ ┃        ┃ ┗ styles.css  
+ ┃        ┣ 📂 js  
+ ┃             ┗ script.css  
+ ┣ 📂 crud  
+ ┃ ┗ productos.html  
+ ┃ ┣ styles.css  
+ ┃ ┗ script.j  
+ ┃  
+ ┣ index.html  
+ ┗ README.md  
 
 
 ------------
@@ -95,3 +95,4 @@ Debe quedar:
 
 En el footer se encuentra botón de acceso a panel de administración:
 Clave de acceso : 12345
+
