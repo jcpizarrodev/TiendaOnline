@@ -87,7 +87,7 @@ Al iniciar index.html  a través de visual studio code u otra aplicación se deb
 
 Ejemplo: 
 
-**http://127.0.0.1:3000/Modulo_4/portafolio/index.html**
+**http://127.0.0.1:3000/TiendaOnline/index.html**
 
 Debe quedar:
 
@@ -95,4 +95,5 @@ Debe quedar:
 
 En el footer se encuentra botón de acceso a panel de administración:
 Clave de acceso : 12345
+
 
